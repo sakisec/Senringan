@@ -1,0 +1,82 @@
+Saki Default License (SDL) v1.0
+Copyright (c) [2025] Saki
+
+Definitions
+-----------
+"Program" means the original work and any derivative works based on it, including source code,
+binaries, installers, documentation, and other materials distributed with or derived from the
+original work.
+
+"Distribute" means any transfer, publication, delivery, or making available of the Program to
+any third party, whether for free or for a fee, including via download, hosting, physical media,
+app stores, marketplaces, or other distribution channels.
+
+"Resell" means offering the Program, or any portion or derivative of it, for sale, for a fee,
+or as part of a product or service for which end-users pay directly or indirectly (including
+subscription fees, one-time purchase, or charging for access), but does not prohibit charging
+for custom development, hosting, or support services provided the Program itself is provided
+under the terms of this license and attribution requirements are met.
+
+License Grant
+-------------
+Subject to the conditions below, Saki grants you a worldwide, non-exclusive, non-transferable,
+revocable (as provided below) license to:
+  • Use, copy, run, and display the Program.
+  • Modify the Program and distribute such modified versions under the conditions below.
+
+Conditions and Restrictions
+---------------------------
+1. No Resale. You **may not resell** the Program or any derivative work of the Program.
+   - You may not offer the Program (original or modified) for direct or indirect purchase,
+     subscription, or other monetization where the primary purpose is selling the Program itself.
+   - This restriction does not prevent offering paid services (development, customization,
+     integration, hosting, or support) so long as the Program is supplied to recipients under
+     this license and not sold as a standalone commercial product.
+
+2. Attribution and Credit Preservation. All copies and distributions of the Program, whether
+   in original or modified form, must include a visible, unmodified attribution notice that
+   credits "Saki" as the original author/owner. The attribution must:
+   - Appear in a prominent place appropriate to the medium (for software: in a file named
+     `NOTICE`, in the documentation, and in any about/help screens; for web/apps: in an
+     about page or credits page; for binaries: in an attached documentation file or installer).
+   - Not be removed, altered, or obscured. If you provide a modified version, you must add
+     a note that you modified the Program and include your name, but you may not remove or
+     alter the original "Saki" credit.
+
+3. Sublicensing. You may not sublicense the Program in a way that permits resale or removes
+   the attribution requirement. Any downstream recipient receives the Program under the
+   same restrictions and must be informed of these terms.
+
+4. Notices. If the Program contains a `NOTICE` file or other attribution file, that file must
+   be included in any distribution and may not be changed in a way that removes the required
+   credits to Saki.
+
+Redistribution of Modified Versions
+-----------------------------------
+You may redistribute modified versions provided:
+  • You obey the No Resale and Attribution and Credit Preservation terms above;
+  • You include a clear changelog or description of modifications; and
+  • You include this license text or a copy thereof with the distributed files.
+
+Termination
+-----------
+This license and the rights granted herein terminate automatically if you fail to comply with
+any of its terms. Upon termination you must cease distribution and use of the Program and
+destroy or return all copies in your possession.
+
+Disclaimer of Warranty
+----------------------
+The Program is provided "AS IS", without warranty of any kind, express or implied, including
+but not limited to the warranties of merchantability, fitness for a particular purpose, or
+non-infringement.
+
+Limitation of Liability
+-----------------------
+In no event shall Saki be liable for any claim, damages or other liability, whether in an action
+of contract, tort or otherwise, arising from, out of or in connection with the Program or the
+use or other dealings in the Program.
+
+Governing Law
+-------------
+This license is governed by the laws of the jurisdiction of Saki's residence at the time of
+copyright (unless otherwise specified in a separate written agreement).
