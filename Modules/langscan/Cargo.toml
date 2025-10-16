@@ -1,0 +1,7 @@
+[package]
+name = "senringan-langscan"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+goblin = "0.7"
